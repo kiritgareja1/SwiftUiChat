@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>120331470863-ce6mvg62586mj4dfg1ssg2iu5oai9pq3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.120331470863-ce6mvg62586mj4dfg1ssg2iu5oai9pq3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDtQOCy2mIKtOqrWa6X3UBMhsZgH_MZiRo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>120331470863</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.saki.SwiftUIChat</string>
+	<key>PROJECT_ID</key>
+	<string>swiftuichat-88352</string>
+	<key>STORAGE_BUCKET</key>
+	<string>swiftuichat-88352.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:120331470863:ios:2afd686c5519416f477b7a</string>
+	<key>DATABASE_URL</key>
+	<string>https://swiftuichat-88352-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
